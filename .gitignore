@@ -1,0 +1,5 @@
+# Ignore the compressed file
+*.gz
+
+# Ignore the pdf file
+*.pdf
