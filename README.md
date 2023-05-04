@@ -1,7 +1,7 @@
 # Pong GBA Guide
 ## Installation Guide
 - Prerequisite: Install the [GBA Emulator](https://mgba.io/downloads.html) on your PC.
-- For further information on the GBA Emulator like control mapping, [click here](https://github.com/mgba-emu/mgba/blob/master/README.md).
+- For further information on the GBA Emulator (e.g. control mapping), [click here](https://github.com/mgba-emu/mgba/blob/master/README.md).
 - Download the `.gba` file from the repo.
 ## General Controls
 - START Button - Start/Pause the Game
